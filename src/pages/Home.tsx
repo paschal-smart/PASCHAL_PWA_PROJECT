@@ -113,9 +113,9 @@ export default function Home() {
         <p className="eyebrow">FOUNDATION TRACK</p>
 
         <h1>Keep learning when the network leaves.
-            Umezurike Ebubechi Chisom
-            Mechatronic Engineering
-            2024/1/95227ET
+            Langdi Paschal Henry
+            Computer Engineering
+            2024/1/97632CP
 
         </h1>
 
