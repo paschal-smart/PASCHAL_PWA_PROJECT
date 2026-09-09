@@ -4,4 +4,4 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   base: "/PASCHAL_PWA_PROJECT/",
-});git push -u origin main
+});
